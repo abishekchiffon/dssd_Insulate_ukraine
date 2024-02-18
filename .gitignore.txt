@@ -1,0 +1,9 @@
+Data
+buildings_impacted_by_war_fires.csv
+ukraine_war_fires_with_state_lookup.csv
+24_02_01-hh-example_features_for_statistical_model - Sheet1.csv
+adm3_en_names.txt
+war_fires_by_ADM3.csv
+building_shapes_file.csv
+lux_values.csv
+temperature_values.csv
